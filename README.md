@@ -1,6 +1,8 @@
 # Covid-19-Mutation-Analyzer
 A website for exploratory data analysis of Covid-19 genomes
 
+Link to website (https://jberg1999.shinyapps.io/COVID19MutationAnalyzer/?_ga=2.7382962.1609937937.1618995377-1954151250.1614141124)
+
 Hey yall,
 
 Thanks for taking the time to look over this project!. The website, and in turn the repository, is split up into two working parts. 
